@@ -26,7 +26,7 @@ Read the guide, choose a study strategy or learning resource, and practice consi
 - [Git Book](https://git-scm.com/book/en/v2) — a detailed reference for Git commands and workflows.
 - [Visual Studio Code Documentation](https://code.visualstudio.com/docs) — help with editing, Source Control, and Git integration.
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/) — beginner Python lessons and examples.
-
-## Contributors
-
-Developer A and Developer B collaborated using branches, commits, pull requests, code review, and merge-conflict resolution.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) — comprehensive resources for JavaScript, including tutorials and reference materials.
+- [Stack Overflow](https://stackoverflow.com/) — a question-and-answer site for programming topics, where you can find solutions and ask about specific issues you encounter.
+- [Codecademy](https://www.codecademy.com/) — interactive courses on various programming languages and topics, great for hands-on learners.
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming) — offers courses on computer programming, including JavaScript, HTML/CSS, and SQL, with a focus on interactive learning.
